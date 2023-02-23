@@ -3,4 +3,4 @@
 ## Introduction about my self:
 
 Hello, I am **Mohammad Zayed**.\
-I was born in __*Jenin/Palestine*__.\
+I was born in __*Jenin/Palestine*__. \
