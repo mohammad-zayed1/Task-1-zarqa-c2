@@ -15,5 +15,5 @@ I know many technology in web development:\
 - ReactJs
 - Basic Java
 
-[link](https://www.codeimmersives.com/wp-content/uploads/2021/04/term1.png)
+[Web Development Image](https://www.codeimmersives.com/wp-content/uploads/2021/04/term1.png)
 
